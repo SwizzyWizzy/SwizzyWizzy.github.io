@@ -1,0 +1,67 @@
+.container{
+   display: flex;
+   background-color: darkblue;
+   gap: 70px;
+   padding: 0px;
+}
+p{
+   color: azure;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: xx-large;
+   left: 50px;
+   position: relative;
+   font-weight: 600;
+   text-decoration: dashed;
+}
+li{
+   position: relative;
+   list-style: none;
+   left: 100px;
+   top: 50px;
+   font-size: larger;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+html{
+   background-color: rgb(5, 5, 19);
+}
+button{
+   background-color: azure;
+   width: 90px;
+   height: 55px;
+   border-radius: 20%;
+   font-size: large;
+   color: darkblue;
+   font-weight: 600;
+}
+
+body{
+   background-image: url(Screenshot_20230521-141514.png);
+   background-attachment: fixed;
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+}
+
+h1{
+   text-align: center;
+   color: gold;
+}
+li{
+   text-align: center;
+   color: aqua;
+}
+h2{
+   text-align: center;
+   color: aqua;
+}
+h1{
+   color: whitesmoke;
+   text-align: center;
+   text-decoration-color: gold;
+   text-decoration-line: underline;
+   text-decoration-style: wavy;
+   text-shadow: 2px 2px 4px;
+   text-transform: uppercase;
+   margin-top: 5%;
+   padding: 2%;
+}
